@@ -7,3 +7,4 @@ xgboost
 joblib
 flask-jwt-extended
 sqlalchemy
+gunicorn
