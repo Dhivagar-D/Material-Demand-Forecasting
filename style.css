@@ -1,0 +1,13 @@
+
+body{
+    background:#f5f7fb;
+}
+.sidebar{
+    min-height:100vh;
+    background:#1f2937;
+    color:white;
+}
+.card-hover:hover{
+    transform:translateY(-3px);
+    transition:.3s;
+}
